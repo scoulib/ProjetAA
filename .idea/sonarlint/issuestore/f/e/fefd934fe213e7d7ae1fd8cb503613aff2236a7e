@@ -1,0 +1,71 @@
+
+W
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(¿ÿ«›8ÚºØ”.
+Osquid:S1612:",Replace this lambda with a method reference.(óÅí¶üÿÿÿÿ8ÚºØ”.
+\
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚºØ”.
+W
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(ˆ§£˜8ÚºØ”.
+\
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÚºØ”.
+]squid:S4973‰"9Use the "equals" method if value comparison was intended.( ºìöüÿÿÿÿ8ÚºØ”.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ùˆ Ï8ÚºØ”.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÚºØ”.
+\
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÚºØ”.
+W
+squid:S106í"9Replace this use of System.out or System.err by a logger.(ò¸ ½8ÚºØ”.
+\
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ÖŠıëüÿÿÿÿ8ÚºØ”.
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ì¬§Õıÿÿÿÿ8ÚºØ”.
+\
+squid:S106ò"9Replace this use of System.out or System.err by a logger.(›‰ŞÄüÿÿÿÿ8ÚºØ”.
+€squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "gain".(Ñÿ–íÿÿÿÿÿ8ÚºØ”.
+|squid:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¤ßèøÿÿÿÿ8ÚºØ”.
+Hsquid:S1905ş")Remove this unnecessary cast to "String".(ƒáÅİ8ÚºØ”.
+qsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 148 to the 15 allowed.(Çµí‘8ÚºØ”.
+Osquid:S1612:",Replace this lambda with a method reference.(óÅí¶üÿÿÿÿ8ÚºØ”.
+\
+squid:S106™"9Replace this use of System.out or System.err by a logger.(“íø‰ıÿÿÿÿ8ÚºØ”.
+]squid:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(áû…½8ÚºØ”.
+W
+squid:S106Î"9Replace this use of System.out or System.err by a logger.(§‹”Ö8ÚºØ”.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÚºØ”.
+\
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(ûÉß¡ùÿÿÿÿ8ÚºØ”.
+asquid:S1155<">Use isEmpty() to check whether the collection is empty or not.(âóĞ®üÿÿÿÿ8ÚºØ”.
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ëŠÅïüÿÿÿÿ8ÚºØ”.
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ûÉß¡ùÿÿÿÿ8ÚºØ”.
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(”ÔÍŞúÿÿÿÿ8ÚºØ”.
+Wsquid:UselessParenthesesCheck"!Remove these useless parentheses.(Ñÿ–íÿÿÿÿÿ8ÚºØ”.
+Ysquid:S1481Ï"5Remove this unused "datasetIterator1" local variable.(üÛ¼±ÿÿÿÿÿ8ÚºØ”.
+isquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(¹ï´±8—’ßØ”.
+Xsquid:S4973Û"9Use the "equals" method if value comparison was intended.(¼²ƒ™8ÚºØ”.
+Osquid:S1612@",Replace this lambda with a method reference.(óÅí¶üÿÿÿÿ8ÚºØ”.
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚºØ”.
+\
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(ì¬§Õıÿÿÿÿ8ÚºØ”.
+\
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚºØ”.
+\
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ŒßÎŒüÿÿÿÿ8ÚºØ”.
+Osquid:S1612@",Replace this lambda with a method reference.(óÅí¶üÿÿÿÿ8ÚºØ”.
+W
+squid:S106 "9Replace this use of System.out or System.err by a logger.(äµè8ÚºØ”.
+W
+squid:S106É"9Replace this use of System.out or System.err by a logger.(èŸÛ¸8ÚºØ”.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(œë¬Ûıÿÿÿÿ8ÚºØ”.
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ŒßÎŒüÿÿÿÿ8ÚºØ”.
+\
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(ı«„ùÿÿÿÿ8ÚºØ”.
+jsquid:CommentedOutCodeLineØ"<This block of commented-out lines of code should be removed.(Ö‰±Ë8½—‰Ï•.

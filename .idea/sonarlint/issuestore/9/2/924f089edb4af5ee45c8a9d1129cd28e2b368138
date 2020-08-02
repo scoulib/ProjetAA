@@ -1,0 +1,75 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡»8›˜Ì×”.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ùˆ Ï8­„ÅÔ”.
+Hsquid:S1905")Remove this unnecessary cast to "String".(ƒáÅİ8­„ÅÔ”.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¹¼äÉ‘.
+\
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(“íø‰ıÿÿÿÿ8­„ÅÔ”.
+W
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(èŸÛ¸8­„ÅÔ”.
+\
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8­„ÅÔ”.
+jsquid:CommentedOutCodeLineİ"<This block of commented-out lines of code should be removed.(÷Ï§ö8­„ÅÔ”.
+W
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(ˆ§£˜8­„ÅÔ”.
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ûÉß¡ùÿÿÿÿ8…ËË‘.
+\
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ı«„ùÿÿÿÿ8€»çÎ•.
+\
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8­„ÅÔ”.
+Xsquid:S4973í"9Use the "equals" method if value comparison was intended.(¼²ƒ™8€»çÎ•.
+Wsquid:UselessParenthesesCheck"!Remove these useless parentheses.(Ñÿ–íÿÿÿÿÿ8ÌáØÈ.
+asquid:S1155<">Use isEmpty() to check whether the collection is empty or not.(âóĞ®üÿÿÿÿ8­„ÅÔ”.
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8­„ÅÔ”.
+W
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(äµè8­„ÅÔ”.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(œë¬Ûıÿÿÿÿ8­„ÅÔ”.
+qsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 143 to the 15 allowed.(Çµí‘8¹¼äÉ‘.
+\
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ûÉß¡ùÿÿÿÿ8¹¼äÉ‘.
+\
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8­„ÅÔ”.
+\
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(ÖŠıëüÿÿÿÿ8­„ÅÔ”.
+Osquid:S1612:",Replace this lambda with a method reference.(óÅí¶üÿÿÿÿ8­„ÅÔ”.
+]squid:S1155§">Use isEmpty() to check whether the collection is empty or not.(áû…½8…ËË‘.
+W
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(§‹”Ö8¹¼äÉ‘.
+Osquid:S1612@",Replace this lambda with a method reference.(óÅí¶üÿÿÿÿ8­„ÅÔ”.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(›‰ŞÄüÿÿÿÿ8¹¼äÉ‘.
+Osquid:S1612:",Replace this lambda with a method reference.(óÅí¶üÿÿÿÿ8­„ÅÔ”.
+\
+squid:S106ü"9Replace this use of System.out or System.err by a logger.(ëóøÿÿÿÿ8ÌÁßÎ•.
+Osquid:S1612@",Replace this lambda with a method reference.(óÅí¶üÿÿÿÿ8­„ÅÔ”.
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ì¬§Õıÿÿÿÿ8¹¼äÉ‘.
+|squid:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¤ßèøÿÿÿÿ8¹¼äÉ‘.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¹¼äÉ‘.
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ŒßÎŒüÿÿÿÿ8…ËË‘.
+isquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(¹ï´±8Ü—ñØ”.
+]squid:S4973‘"9Use the "equals" method if value comparison was intended.( ºìöüÿÿÿÿ8¹¼äÉ‘.
+W
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(¿ÿ«›8­„ÅÔ”.
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ëŠÅïüÿÿÿÿ8¹¼äÉ‘.
+W
+squid:S106û"9Replace this use of System.out or System.err by a logger.(ò¸ ½8­„ÅÔ”.
+€squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "gain".(Ñÿ–íÿÿÿÿÿ8ÌáØÈ.
+\
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8­„ÅÔ”.
+Ysquid:S1481×"5Remove this unused "datasetIterator1" local variable.(üÛ¼±ÿÿÿÿÿ8­„ÅÔ”.
+isquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(¿”Ÿ8­„ÅÔ”.
+\
+squid:S106²"9Replace this use of System.out or System.err by a logger.(ì¬§Õıÿÿÿÿ8…ËË‘.
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(”ÔÍŞúÿÿÿÿ8¹¼äÉ‘.
+\
+squid:S106®"9Replace this use of System.out or System.err by a logger.(ŒßÎŒüÿÿÿÿ8…ËË‘.
